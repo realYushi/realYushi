@@ -5,7 +5,6 @@ Hi there! I'm Yushi, transitioning from the vibrant world of culinary arts to th
 
 ## 📫 Contact Information
 - **Email:** realYushi@gmail.com
-- **Mobile:** 0220712250
 - **Location:** Auckland, New Zealand
 
 ## 💼 Professional Profiles
