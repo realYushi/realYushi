@@ -5,20 +5,17 @@
 I'm a Computer Science student transitioning from culinary arts to tech, focusing on full-stack development. I’m passionate about creating tech solutions that enhance everyday life.
 
 ### 🔭 I’m currently working on
-- **ToDo List Application:** A React-based web application that helps users manage their daily tasks more effectively.
+- **Personal Projects:** Engaging with a variety of projects that help me absorb knowledge daily and develop my skills in real-world scenarios.
 
 ### 👯 I’m looking to collaborate on
 - Open source projects focused on web development, especially those using React or .NET technologies.
 - Projects that aim to simplify user interactions with technology in innovative ways.
 
-### 🤝 I’m looking for help with
-- Advanced cloud deployment strategies on Azure.
-- Implementing automated CI/CD pipelines using Docker.
-
 ### 🌱 I’m currently learning
 - Advanced techniques in React for building dynamic and responsive interfaces.
 - Azure cloud infrastructure to enhance my backend deployment skills.
 - Networking fundamentals through my CCNA preparation.
+- Deep diving into Computer Science fundamentals to solidify my understanding and apply it effectively in my projects.
 
 ### 💬 Ask me about
 - Transitioning from culinary arts to tech.
