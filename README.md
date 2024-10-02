@@ -24,7 +24,7 @@ I'm a Computer Science student transitioning from culinary arts to tech, focusin
 
 ## 📫 How to Reach Me
 - **Email:** [realYushi@gmail.com](mailto:realYushi@gmail.com)
-- **Blog:** [yushi91.com](http://yushi91.com)
+- **Blog:** [blog.yushi91.com](http://blog.yushi91.com)
 - **LinkedIn:** [Yushi Cui](https://www.linkedin.com/in/yushi-cui-6043aa285/)
 
 # 💻 Tech Stack:
