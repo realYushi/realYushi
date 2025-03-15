@@ -1,3 +1,1 @@
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+![Metrics](https://metrics.lecoq.io/realyushi?template=classic&topics=1&introduction=1&anilist=1&music=1&16personalities=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&introduction=false&introduction.title=true&anilist=false&anilist.user=qs8cys&anilist.medias=anime%2C%20manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&music=false&music.provider=spotify&music.user=1271468628&music.mode=recent&music.limit=4&music.played.at=false&music.time.range=short&music.top.type=tracks&16personalities=false&16personalities.url=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2Fintp-a%2Fm%2Fhqoobjncy&16personalities.sections=personality&16personalities.scores=true&config.timezone=Pacific%2FAuckland)
